@@ -31,8 +31,7 @@ const EcoPoints = () => {
     { id: 2, name: 'Bamboo Phone Case', points: 300, image: 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?w=200', category: 'Tech' },
     { id: 3, name: 'Organic Cotton T-Shirt', points: 800, image: 'https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?w=200', category: 'Clothing' },
     { id: 4, name: 'Solar Power Bank', points: 1200, image: 'https://images.pexels.com/photos/5466970/pexels-photo-5466970.jpeg?w=200', category: 'Tech' },
-    { id: 5, name: 'Plant-Based Protein Bar (12-pack)', points: 400, image: 'https://images.pexels.com/photos/2878718/pexels-photo-2878718.jpeg?w=200', category: 'Food' },
-    { id: 6, name: 'Recycled Notebook Set', points: 250, image: 'https://images.pexels.com/photos/159751/book-open-pages-literature-159751.jpeg?w=200', category: 'Office' }
+  
   ];
 
   const leaderboard = [
